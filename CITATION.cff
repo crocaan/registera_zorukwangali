@@ -4,8 +4,8 @@ type: dataset
 title: "Technical Rukwangali Project: Open-Access STEM Lexicons and Operational Taxonomies (Rukwangali – English)"
 abstract: "An open-access collection of morphologically motivated STEM lexicons, operational taxonomies, and working papers establishing standardized university-level scientific and mathematical registers in Rukwangali (ISO 639-3: kwn)."
 authors:
-  - family-names: "Ihemba"
-    given-names: "Haita Joseph"
+  - family-names: "Haita"
+    given-names: "Joseph Ihemba"
 version: "1.0.0"
 date-released: 2026-11-16
 doi: "10.5281/zenodo.24289679"
