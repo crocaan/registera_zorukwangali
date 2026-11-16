@@ -42,7 +42,5 @@ When citing the overarching project or dataset collection, please use:
 > Haita, J. I. (2026). *Technical Rukwangali Project: Open-Access STEM Lexicons and Operational Taxonomies (Rukwangali – English)* (Version 1.0.0) [Dataset & Lexicon, ISO 639-3: kwn]. Zenodo. https://doi.org
 
 
-> Haita, J. I. (2026). *Technical Rukwangali Project: Open-Access STEM Lexicons and Operational Taxonomies (Rukwangali – English)* [Dataset & Working Papers, ISO 639-3: kwn].
-
 *(For individual papers or specific domain lexicons, please use the citation block included inside each respective PDF.)*
 
