@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use any lexicon, paper, or dataset from the Technical Rukwangali Project, please cite it using the metadata below."
+type: dataset
+title: "Technical Rukwangali Project: Open-Access STEM Lexicons and Operational Taxonomies (Rukwangali – English)"
+abstract: "An open-access collection of morphologically motivated STEM lexicons, operational taxonomies, and working papers establishing standardized university-level scientific and mathematical registers in Rukwangali (ISO 639-3: kwn)."
+authors:
+  - family-names: "Haita"
+    given-names: "Joseph Ihemba"
+version: "1.0"
+date-released: 2026-11-16
+license: "CC-BY-4.0"
+keywords:
+  - "Rukwangali"
+  - "kwn"
+  - "Technical Rukwangali"
+  - "STEM lexicon"
+  - "Metrology"
+  - "Mathematical Logic"
+  - "Algebra"
+  - "Physics"
+  - "Chemistry"
+  - "Calculus"
+  - "Biology"
+  - "Control Systems"
+  - "Bantu terminology"
+  - "Namibia"
