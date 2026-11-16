@@ -1,9 +1,11 @@
 # Technical Rukwangali Project (`kwn`)
 **Open-Access STEM Lexicons, Terminology Papers & Standardized Registers for Rukwangali**
 
-[![License: CC BY 4.0](https://shields.io)](https://creativecommons.org)
-![Language: Rukwangali (kwn)](https://shields.io)
-![Status: Active](https://shields.io)
+[![DOI](https://zenodo.org)](https://doi.org)
+[![License: CC BY 4.0](https://shields.io)](https://creativecommons.org/licenses/by/4.0/deed.en))
+![Language: Rukwangali (kwn)]([https://shields.io](https://www.omniglot.com/writing/kwangali.htm))
+
+
 
 ## Overview
 The **Technical Rukwangali Project** is an open-access initiative establishing standardized, university-level STEM terminology, operational taxonomies, and reference lexicons in **Rukwangali** (`ISO 639-3: kwn`).
@@ -36,6 +38,9 @@ You are free to share, copy, redistribute, and adapt this material for any purpo
 
 ## How to Cite
 When citing the overarching project or dataset collection, please use:
+
+> Haita, J. I. (2026). *Technical Rukwangali Project: Open-Access STEM Lexicons and Operational Taxonomies (Rukwangali – English)* (Version 1.0.0) [Dataset & Lexicon, ISO 639-3: kwn]. Zenodo. https://doi.org
+
 
 > Haita, J. I. (2026). *Technical Rukwangali Project: Open-Access STEM Lexicons and Operational Taxonomies (Rukwangali – English)* [Dataset & Working Papers, ISO 639-3: kwn].
 
