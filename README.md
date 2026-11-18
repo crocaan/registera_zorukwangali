@@ -1,9 +1,9 @@
 # Technical Rukwangali Project (`kwn`)
 **Open-Access STEM Lexicons, Terminology Papers & Standardized Registers for Rukwangali**
 
-[![DOI](https://zenodo.org)](https://doi.org)
-[![License: CC BY 4.0](https://shields.io)](https://creativecommons.org/licenses/by/4.0/deed.en))
-![Language: Rukwangali (kwn)]([https://shields.io](https://www.omniglot.com/writing/kwangali.htm))
+[![DOI](https://shields.io)](https://doi.org)
+[![License: CC BY 4.0](https://shields.io)](https://creativecommons.org/licenses/by/4.0/)
+[![Language: Rukwangali (kwn)](https://shields.io)](https://www.omniglot.com/writing/kwangali.htm)
 
 
 
